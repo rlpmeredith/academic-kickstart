@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Robert Meredith"
+name = "Robert M"
 
 # Is this the primary user of the site?
 superuser = true
@@ -65,4 +65,4 @@ interests = [
 
 +++
 
-Robert Meredith is a student at the University of Dundee currently studying a Masters in Data Science. He had 13 years of working in the tech industry as a Unix and IT Security Engineer before studying for professional Tax exams and founding a tax business in 2007. He is now keen to pursue new challenges in the field of Data Science. 
+Robert M is a student at the University of Dundee currently studying a Masters in Data Science. He had 13 years of working in the tech industry as a Unix and IT Security Engineer before studying for professional Tax exams and founding a tax business in 2007. He is now keen to pursue new challenges in the field of Data Science. 
