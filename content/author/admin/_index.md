@@ -26,14 +26,15 @@ interests = [
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
+  course = "MSc In Data Science (Current Student)"
+  institution = "University of Dundee"
+  year = 2021
+
+[[education.courses]]
   course = "BSc in Physics and The Analysis of Science and Technology"
   institution = "Manchester University"
   year = 1991
   
-[[education.courses]]
-  course = "MSc In Data Science (Current Student)"
-  institution = "University of Dundee"
-  year = 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -43,7 +44,7 @@ interests = [
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "mailto:roblpm@otmail.com"  # For a direct email link, use "mailto:test@example.org".
+  link = "mailto:roblpm@hotmail.com"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
   icon = "twitter"
